@@ -208,6 +208,4 @@ By analyzing historical sales patterns and generating future predictions, the mo
 BE Computer Science <br>
 Machine Learning Intern – Future Interns
 
-## Internship Project
-
 This project was completed as part of the Machine Learning Internship at Future Interns. The task focused on building a sales forecasting model using historical business data, applying data preprocessing, time-based feature engineering, regression-based forecasting, model evaluation, and visualization techniques.
